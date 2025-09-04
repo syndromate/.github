@@ -41,6 +41,8 @@
   **Contattaci**  
   - Sede legale: Via San Bellino 44, 35020 Albignasego (PD)  
   - Sede operativa: Via Per Telve 79/1, 38051 Borgo Valsugana (TN)
+  - email: info@syndromate.it
+  - sito web: [syndromate.it](https://syndromate.it/)
 
 </details>
 
@@ -63,3 +65,5 @@ We deliver advanced AI and federated learning tools to analyze real-time data fr
 **Contact Us**  
 - Legal headquarters: Via San Bellino 44, 35020 Albignasego (PD)  
 - Operational office: Via Per Telve 79/1, 38051 Borgo Valsugana (TN)
+- email: info@syndromate.it
+- website: [syndromate.it](https://syndromate.it/)
